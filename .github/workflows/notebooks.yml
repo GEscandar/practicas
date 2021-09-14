@@ -1,5 +1,6 @@
 name: Compilar notebooks de clases
 on:
+  workflow_dispatch:  
   push:
     branches:
       - master
