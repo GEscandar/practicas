@@ -31,7 +31,8 @@ Para mayor comodidad, se puede agregar un alias con ese comando a `~/.alias` o `
 ## Instalar dependencias de python
 Dentro de la carpeta del repo
 ```bash
-pip3 install -r requirements.txt
+pip install --upgrade pip setuptools, wheel
+pip install -r requirements.txt
 ```
 
 ## Jupytext
