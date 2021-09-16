@@ -328,6 +328,7 @@ plt.plot()
 
 
 
+
 # Una opcion es mapear todas las variables que tienen muy pocas apariciones en una mas grande
 #
 
